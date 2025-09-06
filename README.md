@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**lourencoMayol/lourencoMayol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Lourenço Mayol
 
-Here are some ideas to get you started:
+🇵🇹 Portuguese & 🇪🇸 Spanish  
+💻 Full-Stack Developer | EUS IAM Engineer | Computer Science Bachelor 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education & Certifications
+- 🎓 **BSc in Computer Science** – ISEP  
+- 🎓 **English CAE Certification** – Cambridge University  
+- 🎓 **CCNA Certification** – Cisco  
+- 🎓 **Academy Cloud Foundations** – AWS  
+
+## 💼 Work Experience
+- **Full-Stack Developer** – Mercatura  
+- **EUS IAM Trainee** – Euronext  
+
+
+## 🛠️ Skills & Technologies
+**Programming Languages & Frameworks**  
+- C#, .NET, ASP.NET  
+- Python, PHP, C
+- Java, Spring, Hibernate, JPA
+- JavaScript, TypeScript, jQuery, Angular, Node.js, Three.js  
+- HTML, CSS  
+
+**Databases**  
+- SQL Server, Oracle SQL, MongoDB  
+
+**Other Tools & Platforms**  
+- AWS, Azure  
+- PowerShell, Linux  
+- Assembly 
+- Unity, Blender
+
+## 🌍 Languages
+- 🇵🇹 Portuguese (Native)  
+- 🇪🇸 Spanish (Native)  
+- 🇬🇧 English (C1 – Cambridge CAE)  
+
+
