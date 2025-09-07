@@ -5,10 +5,10 @@
 💻 Full-Stack Developer | EUS IAM Engineer | Computer Science Bachelor 
 
 ## 🎓 Education & Certifications
-- 🎓 **BSc in Computer Science** – ISEP  
-- 🎓 **English CAE Certification** – Cambridge University  
-- 🎓 **CCNA Certification** – Cisco  
-- 🎓 **Academy Cloud Foundations** – AWS  
+- **BSc in Computer Science** – ISEP  
+- **English CAE Certification** – Cambridge University  
+- **CCNA Certification** – Cisco  
+- **Academy Cloud Foundations** – AWS  
 
 ## 💼 Work Experience
 - **Full-Stack Developer** – Mercatura  
@@ -25,11 +25,11 @@ Modular web application developed as part of an academic project to manage virtu
 
 ### Synchronize Folders
 Application developed in C# (.NET) for automatic synchronization between a source folder and a replica folder.  
-🔗 [GitHub – synchronizeFolders](https://github.com/lourencoMayol/synchronizeFolders)
+[GitHub – synchronizeFolders](https://github.com/lourencoMayol/synchronizeFolders)
 
 ### Cookie Monster’s Dream
 Top-down 2D roguelite game developed in C# with Unity using pixel art. Created for the **Brackeys Game Jam 2025**.  
-🔗 [GitHub – Cookie Monster’s Dream](https://github.com/tiagofernandes27/Cookie-Monster-s-Dream)
+[GitHub – Cookie Monster’s Dream](https://github.com/tiagofernandes27/Cookie-Monster-s-Dream)
 
 
 ## 🛠️ Skills & Technologies
