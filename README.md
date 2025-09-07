@@ -14,7 +14,7 @@
 - **Full-Stack Developer** – Mercatura  
 - **EUS IAM Trainee** – Euronext
 
-## Projects
+## 💻Projects
 
 ### Virtual Classroom Management Platform
 Modular web application developed as part of an academic project to manage virtual classes for an educational institution. The most important components are:
